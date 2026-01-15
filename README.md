@@ -8,7 +8,7 @@
 
 ## 🌐 Languages i speak 🌐
 - 🇷🇺 Russian (my native language)
-- 🇬🇧 English
+- 🇬🇧 English ( how you can see i know it bad =.= )
 
 ## 📖 Programming languages that i know 📖
 <img width="64" height="72" alt="c#" src="https://github.com/user-attachments/assets/7c3f759b-d3e8-4fc9-87ed-4bc7bb66501a" /> <img width="74" height="74" alt="java" src="https://github.com/user-attachments/assets/9680367a-90d7-40b3-9531-8eed6ef11e70" /> <img width="74" height="74" alt="python" src="https://github.com/user-attachments/assets/ab69982b-3baf-4f5b-b46e-4211cf36fa79" />
