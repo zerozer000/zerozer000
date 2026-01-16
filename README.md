@@ -5,6 +5,7 @@
 - My favorite numbers is : 0, 1, 4, 9 ( i dont know why ¯\_( ͡° ͜ʖ ͡°)_/¯ )
 - I love this smiles like that - ^_^ !
 - My favorite games is : Garry's mod, Half-Life 2, Minecraft, Team Fortress 2, Fallout =￣ω￣=
+- I started coding in September 2025
 
 ## 🌐 Languages i speak 🌐
 - 🇷🇺 Russian ( my native language )
