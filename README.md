@@ -7,7 +7,7 @@
 - My favorite games is : Garry's mod, Half-Life 2, Minecraft, Team Fortress 2, Fallout =￣ω￣=
 
 ## 🌐 Languages i speak 🌐
-- 🇷🇺 Russian (my native language)
+- 🇷🇺 Russian ( my native language )
 - 🇬🇧 English ( how you can see i know it bad =.= )
 
 ## 📖 Programming languages that i know 📖
